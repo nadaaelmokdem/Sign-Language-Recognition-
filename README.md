@@ -185,5 +185,3 @@ This project demonstrates how computer vision and deep learning can be combined 
 It serves as a strong foundation for more advanced research and real-world applications in assistive technologies.
 
 ---
-
-قولي، وأنا أظبطه من غير ما نضيّع سمعة المشروع.
