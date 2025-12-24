@@ -39,7 +39,7 @@ The project was developed as part of a **Computer Vision course university proje
 * Images contain static hand gestures
 
 📊 **Dataset Link:**
-👉 *Add dataset link here*
+👉 https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
 ---
 
